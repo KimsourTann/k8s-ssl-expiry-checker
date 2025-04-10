@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/k8s-ssl-expiry-checker/internal"
+	"github.com/KimsourTann/k8s-ssl-expiry-checker/internal"
 )
 
 func Run() error {
